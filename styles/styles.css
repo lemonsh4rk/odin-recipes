@@ -36,9 +36,20 @@ img {
   width: auto;
   padding: 20px;
   display: block;
-  margin: auto;
+  margin: 20px auto;
 }
 
 p {
   font-size: 2em;
+  padding: 20px;
+}
+
+ul {
+  text-align: center;
+  list-style: none;
+  display: inline;
+}
+
+ol {
+  padding: 50px;
 }
